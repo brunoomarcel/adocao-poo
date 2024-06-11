@@ -1,8 +1,10 @@
 #Sistema de Adoção de Animais
 #Introdução
+
 Este documento descreve a API para gerenciamento de um sistema de adoção de animais. A API foi desenvolvida utilizando o Spring Boot e armazena os dados no banco de dados H2. O objetivo é facilitar a conexão entre usuários que desejam adotar um animal e empresas que cadastram os animais disponíveis para adoção.
 
 #Descrição do Projeto
+
 A API permite realizar operações CRUD (Create, Read, Update, Delete) para gerenciar as informações dos animais e dos usuários. Através desta API, empresas podem cadastrar novos animais, e usuários podem visualizar, adotar e gerenciar os animais que adotaram.
 
 #Tecnologias Utilizadas
@@ -13,6 +15,7 @@ H2 Database: Banco de dados em memória utilizado para armazenar as informaçõe
 Maven: Ferramenta de gerenciamento de dependências e build.
 
 #Arquitetura da API
+
 A API segue a arquitetura RESTful e está organizada da seguinte maneira:
 
 Controllers: Definem os endpoints da API e manipulam as requisições HTTP.
@@ -44,6 +47,7 @@ Wendel Reis, Nathan, Pedro:
 Documentação descritiva do projeto.
 
 #Proposta Comercial
+
 A proposta comercial visa fornecer uma solução completa para empresas interessadas em gerenciar adoções de animais. Com esta API, as empresas podem:
 
 Cadastrar e gerenciar informações de animais.
