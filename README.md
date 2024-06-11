@@ -29,17 +29,19 @@ PUT /animals/{id}: Atualiza as informações de um animal existente.
 DELETE /animals/{id}: Remove um animal do sistema.
 
 #Responsáveis pelo Projeto
+
 Bruno Marcel:
 
-Responsável pelo desenvolvimento da estrutura do projeto.
-Definição de como os animais se comportam em relação aos usuários cadastrados.
+Responsável pelo desenvolvimento da estrutura do projeto. Definição de como os animais se comportam em relação aos usuários cadastrados.
 Ajustes de validações de requisições e desenvolvimento do backend.
+
 Priscila Oliveira:
 
-Responsável pelo desenvolvimento dos controllers, endpoints e lógica das requisições Create, Read, Update, Delete.
+Responsável pelo desenvolvimento do dos controllers, Repositories, endpoints e lógica das requisições Create, Read, Update, Delete.
+
 Wendel Reis, Nathan, Pedro:
 
-Documentação do projeto e proposta comercial para as empresas.
+Documentação descritiva do projeto.
 
 #Proposta Comercial
 A proposta comercial visa fornecer uma solução completa para empresas interessadas em gerenciar adoções de animais. Com esta API, as empresas podem:
